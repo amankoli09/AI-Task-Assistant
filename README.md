@@ -39,10 +39,6 @@ All tasks are auto-saved to a local `tasks.json` file.
 - ⭐ Productivity score  
 - 💾 Auto-save with JSON  
 
-## 🚀 How to Run
-
-```bash
-python task_assistant.py
 🧠 Commands
 add         -> Add a task
 list        -> Show pending tasks
@@ -53,4 +49,9 @@ suggest     -> AI-like suggestions
 score       -> Productivity score
 help        -> Show help menu
 exit        -> Quit
+
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=20&pause=2000&color=F59E0B&center=true&width=450&lines=Made+With+Love+By+Aman+Koli+💛" /> </p> ```
+
+
+
+
