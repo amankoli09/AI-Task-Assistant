@@ -1,3 +1,22 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&color=F472B6&center=true&vCenter=true&width=700&lines=AI+Task+Assistant;Smart+CLI+Productivity+Tool;Built+With+Python+🐍;Stay+Organized+Every+Day!">
+</p>
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text=Productivity%20Assistant&width=1000&height=200" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F472B6&height=120&section=header" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=2"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=10B981&center=true&vCenter=true&width=600&lines=Tech+Stack;Python+%7C+Dataclasses+%7C+JSON+%7C+Datetime">
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=24&pause=2000&color=F59E0B&center=true&vCenter=true&width=500&lines=Made+With+Love+By+Aman+Koli+💛" />
+</p>
+
 
 AI Task Assistant
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=AI+Task+Assistant;Smart+CLI+Productivity+Tool;Made+with+Python+🐍;Stay+Organized+Every+Day!"> </p>
