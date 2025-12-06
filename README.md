@@ -38,13 +38,4 @@ All tasks are auto-saved to a local `tasks.json` file.
 - ⭐ Productivity score  
 - 💾 Auto-save with JSON  
 
-## 🧠 Commands
-add         -> Add a task
-list        -> Show pending tasks
-list all    -> Show all tasks including completed
-complete    -> Mark a task as done
-delete      -> Remove a task
-suggest     -> AI-like suggestions
-score       -> Productivity score
-help        -> Show help menu
-exit        -> Quit
+Created by - Aman Koli
