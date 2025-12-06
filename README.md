@@ -11,14 +11,10 @@
 <h1 align="center">⚡ AI Task Assistant ⚡</h1>
 <p align="center">A smart & simple command-line productivity tool built using Python.</p>
 
----
-
 ## 📌 Overview
 
 AI Task Assistant is a small, efficient CLI tool to manage tasks with due dates, priorities, suggestions, and a productivity score.  
 All tasks are auto-saved to a local `tasks.json` file.
-
----
 
 ## 🌈 Tech Stack & Tools
 
@@ -32,8 +28,6 @@ All tasks are auto-saved to a local `tasks.json` file.
 
 </p>
 
----
-
 ## ✨ Features
 
 - ➕ Add tasks  
@@ -44,9 +38,13 @@ All tasks are auto-saved to a local `tasks.json` file.
 - ⭐ Productivity score  
 - 💾 Auto-save with JSON  
 
----
-
-## 🚀 How to Run
-
-```bash
-python task_assistant.py
+## 🧠 Commands
+add         -> Add a task
+list        -> Show pending tasks
+list all    -> Show all tasks including completed
+complete    -> Mark a task as done
+delete      -> Remove a task
+suggest     -> AI-like suggestions
+score       -> Productivity score
+help        -> Show help menu
+exit        -> Quit
