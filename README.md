@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/demo-images/demo.gif" alt="Typing SVG" />
+</p>
+<h1 align="center">⚡ AI Task Assistant ⚡</h1>
+<p align="center">A smart & simple productivity tool built using Python</p>
 AI Task Assistant
 
 A simple command-line productivity assistant built in Python.
@@ -30,19 +35,21 @@ suggest     -> AI-like suggestions
 score       -> Productivity score
 help        -> Show help menu
 exit        -> Quit
-
-Tech Used
-
-Python
-
-Dataclasses
-
-JSON storage
-
-datetime module
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/demo-images/demo.gif" alt="Typing SVG" />
-</p>
 
-<h1 align="center">⚡ AI Task Assistant ⚡</h1>
-<p align="center">A smart & simple productivity tool built using Python</p>
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3.8+-ff69b4?style=for-the-badge&logo=python&logoColor=white" />
+
+  <!-- Dataclasses -->
+  <img src="https://img.shields.io/badge/Dataclasses-Used-ff7eb9?style=for-the-badge&logo=code&logoColor=white" />
+
+  <!-- JSON -->
+  <img src="https://img.shields.io/badge/JSON%20Storage-Active-ff99cc?style=for-the-badge&logo=json&logoColor=white" />
+
+  <!-- datetime -->
+  <img src="https://img.shields.io/badge/datetime-Module-ff4da6?style=for-the-badge&logo=clockify&logoColor=white" />
+
+  <!-- CLI Tool -->
+  <img src="https://img.shields.io/badge/CLI%20Tool-Python-ff66b3?style=for-the-badge&logo=terminal&logoColor=white" />
+
+</p>
